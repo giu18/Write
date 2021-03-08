@@ -1,0 +1,4 @@
+<script type="text/javascript">
+    var a = prompt("Digite seu nome:","Nome");
+    document.write("Bom dia, " + a + " <br />");
+</script>
